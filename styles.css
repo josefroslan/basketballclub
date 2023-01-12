@@ -40,6 +40,12 @@ html {
     letter-spacing: 0.3125rem;
 }
 
+.header .content .title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .nav-bar {
     font-size: 1.25rem;
     display: flex;
